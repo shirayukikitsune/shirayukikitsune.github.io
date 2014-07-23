@@ -14,16 +14,12 @@ Finally fixed - for real - the bone deformation. Thanks [MMDAgent][2], got the c
 
 Before the Deformation:
 
-![Before][3]
-
+<img class="img-responsive" src="http://i.imgur.com/PjcCHNK.png"/>
 
 After:
 
-
-![After][4]
+<img class="img-responsive" src="http://i.imgur.com/KiCC6Pr.png"/>
 
 [1]: http://github.com/shirayukikitsune/xbeat/
 [2]: http://www.mmdagent.jp/
-[3]: http://i.imgur.com/PjcCHNK.png
-[4]: http://i.imgur.com/KiCC6Pr.png
 
