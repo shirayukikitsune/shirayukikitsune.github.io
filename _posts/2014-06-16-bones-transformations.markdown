@@ -17,21 +17,17 @@ There is still room to improve, using the geometry shader stream output - but I 
 Here are some examples of how it works: 
 
 Initial Position:
-![Initial][2]
+<img class="img-responsive" src="http://i.imgur.com/UZaZH1a.png"/>
 
 After a transformation (using bone morph, full weight - 1.0):
-![First bone morph, full weight][3]
+<img class="img-responsive" src="http://i.imgur.com/pCc2sqY.png"/>
 
 Same morph, using different weight:
-![Same morph, different weight][4] 
+<img class="img-responsive" src="http://i.imgur.com/siyfWKK.png"/>
 
 I still need to fix it, when chaining bones (these wings have only two bones each), as can be seen here:
-![Still failing :(][5]                  
+<img class="img-responsive" src="http://i.imgur.com/8qRwv5M.png"/>
 
 Even so, this is quite a good progress, and I am looking forward to finish this! :D               
 
 [1]: https://github.com/shirayukikitsune/xbeat/
-[2]: http://i.imgur.com/UZaZH1a.png
-[3]: http://i.imgur.com/pCc2sqY.png
-[4]: http://i.imgur.com/siyfWKK.png
-[5]: http://i.imgur.com/8qRwv5M.png

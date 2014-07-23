@@ -10,7 +10,7 @@ Hello, everyone!
 More progress with the [_XBeat_][1] game! 
 
 Added support for loading multiple models :)
-![Hello from SeeU and Miku!][2]
+<img class="img-responsive" src="http://i.imgur.com/pix3Wt3.png"/>
 
 Also, I fixed the lighting calculation when bones are rotated (vertex normals weren't being updated)
 
@@ -21,4 +21,3 @@ _Update notes_: These weren't commented on git:
   - Disabled some of the post-process effects (they work, disabled just for better screenshots :P)
 
 [1]: https://github.com/shirayukikitsune/xbeat/
-[2]: http://i.imgur.com/pix3Wt3.png
