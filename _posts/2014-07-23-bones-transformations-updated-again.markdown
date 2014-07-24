@@ -21,7 +21,7 @@ After:
 <img class="img-responsive" src="http://i.imgur.com/KiCC6Pr.png"/>
 
 
-##### Edit: #####
+#### Edit: 
 
 Not really fixed, when I tested with other bones, it didn't work properly. If you note the second screenshot, the elbow does not look correct.
 
