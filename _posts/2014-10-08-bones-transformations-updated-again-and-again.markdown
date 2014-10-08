@@ -25,3 +25,5 @@ And this is the combined debug rendering:
 <img class="img-responsive" src="http://i.imgur.com/KHk6ejQ.png"/>
 
 Also, note that the debug rendering does not consider the initial rotation, so the bodies and joints seems "off", but they work properly.
+
+[1]: https://github.com/shirayukikitsune/xbeat/
